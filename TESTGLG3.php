@@ -7,6 +7,10 @@
 	<?php echo "PRUEBA"; ?>
 	
 	<?php echo "PRUEBA GLG afectando"; ?>
+	<?php
+    	echo "PRUEBA";
+		echo "Esta es una modificacion de ROBERTO.";
+	?>
 <body>
 </body>
 </html>
