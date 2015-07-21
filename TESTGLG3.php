@@ -5,6 +5,8 @@
 <title>Untitled Document</title>
 </head>
 	<?php echo "PRUEBA"; ?>
+	
+	<?php echo "PRUEBA GLG afectando"; ?>
 <body>
 </body>
 </html>
