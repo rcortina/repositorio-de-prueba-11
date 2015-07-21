@@ -7,6 +7,7 @@
 	<?php echo "PRUEBA"; ?>
 	
 	<?php echo "PRUEBA GLG afectando"; ?>
+	<?php echo "PRUEBA GLG afectando2"; ?>
 	<?php
     	echo "PRUEBA";
 		echo "Esta es una modificacion de ROBERTO.";
